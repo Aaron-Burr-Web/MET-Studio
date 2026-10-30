@@ -37,7 +37,7 @@ METstudio 是一个用于音乐综合听辨练习的智能软件，旨在帮助�
 ## 技术栈
 开发平台：Windows、macOS、Linux
 开发软件：VScode
-前端：Vue、React
+前端：Java UI
 后端：Node.js、SpringBoot
 数据库：MySQL
 版本控制：Git
